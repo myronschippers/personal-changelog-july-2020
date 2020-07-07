@@ -27,4 +27,6 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 ### Change Log by Day
 
 #### Monday, July 6, 2020
-- 💻 Code, started this change log repo for the challenge
+- 💻- Code, started this change log repo for the challenge
+- 📚- Reading about [Create React Native App](https://reactnative.dev/blog/2017/03/13/introducing-create-react-native-app)
+- 📚- Reading repo documentation on [Create React Native App](https://github.com/expo/create-react-native-app)
