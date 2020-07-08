@@ -30,3 +30,6 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 💻- Code, started this change log repo for the challenge
 - 📚- Reading about [Create React Native App](https://reactnative.dev/blog/2017/03/13/introducing-create-react-native-app)
 - 📚- Reading repo documentation on [Create React Native App](https://github.com/expo/create-react-native-app)
+
+#### Tuesday, July 7, 2020
+- 💻- Code, setting up initial repo for [React Native application](https://github.com/myronschippers/todo-native-app)
