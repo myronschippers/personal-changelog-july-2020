@@ -33,3 +33,8 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 #### Tuesday, July 7, 2020
 - 💻- Code, setting up initial repo for [React Native application](https://github.com/myronschippers/todo-native-app)
+
+#### Wednesday, July 8, 2020
+- 💻- Code, setting up initial repo for [React Native application](https://github.com/myronschippers/todo-native-app)
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **SUCCESS**
