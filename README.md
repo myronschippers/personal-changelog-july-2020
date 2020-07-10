@@ -39,3 +39,9 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Fried Food **SUCCESS**
 - 🍎- No Soda **SUCCESS**
 - 🖊- Started Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
+
+#### Thursday, July 9, 2020
+- 💻- Code, loading necessary dependencies to run application [React Native application](https://github.com/myronschippers/todo-native-app)
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **SUCCESS**
+- 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
