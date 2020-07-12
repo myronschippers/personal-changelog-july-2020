@@ -49,3 +49,10 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 #### Friday, July 10, 2020
 - 💻- [Todo React Native application](https://github.com/myronschippers/todo-native-app)
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **FAIL**
+
+#### Saturday, July 11, 2020
+- 💻- Messing with [Koala Holla](https://github.com/myronschippers/koala-holla-jens)
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **FAIL**
