@@ -56,3 +56,8 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 💻- Messing with [Koala Holla](https://github.com/myronschippers/koala-holla-jens)
 - 🍎- No Fried Food **SUCCESS**
 - 🍎- No Soda **FAIL**
+
+#### Sunday, July 12, 2020
+- 💻- Messing with [Koala Holla](https://github.com/myronschippers/koala-holla-jens)
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **FAIL**
