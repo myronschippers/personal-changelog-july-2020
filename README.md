@@ -67,3 +67,9 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Fried Food **SUCCESS**
 - 🍎- No Soda **FAIL**
 - 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
+
+#### Tuesday, July 13, 2020
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **SUCCESS**
+- 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
