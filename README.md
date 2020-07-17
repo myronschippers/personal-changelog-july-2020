@@ -84,3 +84,8 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Fried Food **SUCCESS**
 - 🍎- No Soda **SUCCESS**
 - 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
+
+#### Friday, July 17, 2020
+- 📚- [Saving Images Article](https://intoli.com/blog/saving-images/) on extracting and saving images while scraping a site with puppeteer
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **SUCCESS**
