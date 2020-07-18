@@ -89,3 +89,4 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 📚- [Saving Images Article](https://intoli.com/blog/saving-images/) on extracting and saving images while scraping a site with puppeteer
 - 🍎- No Fried Food **SUCCESS**
 - 🍎- No Soda **SUCCESS**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
