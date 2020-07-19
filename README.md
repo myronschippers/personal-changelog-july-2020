@@ -90,3 +90,9 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Fried Food **SUCCESS**
 - 🍎- No Soda **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+
+#### Saturday, July 17, 2020
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **SUCCESS**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 📚- [Solo Bug Player](https://manganelo.com/manga/ob922808)
