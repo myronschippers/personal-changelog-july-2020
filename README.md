@@ -91,8 +91,15 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Soda **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 
-#### Saturday, July 17, 2020
+#### Saturday, July 18, 2020
 - 🍎- No Fried Food **SUCCESS**
 - 🍎- No Soda **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
-- 📚- [Solo Bug Player](https://manganelo.com/manga/ob922808)
+- 📚- Manga, [Solo Bug Player](https://manganelo.com/manga/ob922808)
+- 📚- [React Router Documentation](https://reach.tech/router/)
+
+#### Sunday, July 19, 2020
+- 🍎- No Fried Food **SUCCESS**
+- 🍎- No Soda **SUCCESS**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 📚- Manga, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
