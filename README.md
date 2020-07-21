@@ -36,70 +36,77 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 #### Wednesday, July 8, 2020
 - 💻- Code, setting up initial repo for [React Native application](https://github.com/myronschippers/todo-native-app)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **SUCCESS**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
 - 🖊- Started Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
 
 #### Thursday, July 9, 2020
 - 💻- Code, loading necessary dependencies to run application [React Native application](https://github.com/myronschippers/todo-native-app)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **SUCCESS**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
 - 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
 - 📚- [React Native Components](https://reactnative.dev/docs/intro-react-native-components)
 
 #### Friday, July 10, 2020
 - 💻- [Todo React Native application](https://github.com/myronschippers/todo-native-app)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **FAIL**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
 
 #### Saturday, July 11, 2020
 - 💻- Messing with [Koala Holla](https://github.com/myronschippers/koala-holla-jens)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **FAIL**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
 
 #### Sunday, July 12, 2020
 - 💻- Messing with [Koala Holla](https://github.com/myronschippers/koala-holla-jens)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **FAIL**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
 
 #### Monday, July 13, 2020
 - 💻- Messing with [Koala Holla](https://github.com/myronschippers/koala-holla-jens)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **FAIL**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
 - 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
 
 #### Tuesday, July 14, 2020
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **SUCCESS**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
 - 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
 
 #### Wednesday, July 15, 2020
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **SUCCESS**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
 
 #### Thursday, July 16, 2020
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **SUCCESS**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
 - 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
 
 #### Friday, July 17, 2020
 - 📚- [Saving Images Article](https://intoli.com/blog/saving-images/) on extracting and saving images while scraping a site with puppeteer
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **SUCCESS**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 
 #### Saturday, July 18, 2020
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **SUCCESS**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 - 📚- Manga, [Solo Bug Player](https://manganelo.com/manga/ob922808)
 - 📚- [React Router Documentation](https://reach.tech/router/)
 
 #### Sunday, July 19, 2020
-- 🍎- No Fried Food **SUCCESS**
-- 🍎- No Soda **SUCCESS**
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 - 📚- Manga, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
+
+#### Monday, July 20, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 📚- Manga, [Sekai Saikyou No Kouei: Meikyuukoku No Shinjin Tansakusha](https://manganelo.com/manga/sekai_saikyou_no_kouei_meikyuukoku_no_shinjin_tansakusha)
+- 📚- Manga, [Slave B](https://manganelo.com/manga/vf922819) (*latest chapter*)
