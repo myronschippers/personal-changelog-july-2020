@@ -110,3 +110,10 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 - 📚- Manga, [Sekai Saikyou No Kouei: Meikyuukoku No Shinjin Tansakusha](https://manganelo.com/manga/sekai_saikyou_no_kouei_meikyuukoku_no_shinjin_tansakusha)
 - 📚- Manga, [Slave B](https://manganelo.com/manga/vf922819) (*latest chapter*)
+
+#### Tuesday, July 21, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 📚- Manga, [Slave B](https://manganelo.com/manga/vf922819) (*latest chapter*)
+- 📚- Manga, [Star Martial God Technique](https://manganelo.com/manga/dtdc220351567737255) (*latest chapter*)
