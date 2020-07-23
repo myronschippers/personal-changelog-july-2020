@@ -117,3 +117,9 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 - 📚- Manga, [Slave B](https://manganelo.com/manga/vf922819) (*latest chapter*)
 - 📚- Manga, [Star Martial God Technique](https://manganelo.com/manga/dtdc220351567737255) (*latest chapter*)
+
+#### Wednesday, July 22, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 📚- Manga, [Maou Gun Saikyou No Majutsushi Wa Ningen Datta](https://manganelo.com/manga/cd919912)
