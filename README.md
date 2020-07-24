@@ -129,3 +129,8 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Soda, **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 - 📚- Manga, [The Reason Why Raeliana Ended Up At The Duke’S Mansion](https://manganelo.com/manga/pl920999) (*latest chapter*)
+
+#### Friday, July 24, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
