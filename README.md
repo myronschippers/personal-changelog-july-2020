@@ -134,3 +134,9 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Fried Food, **SUCCESS**
 - 🍎- No Soda, **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+
+#### Friday, July 24, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 📚- Manga, [Isekai De Skill Wo Kaitai Shitara Cheat Na Yome Ga Zoushoku Shimashita: Gainen Kousa No Structure](https://manganelo.com/manga/isekai_de_skill_wo_kaitai_shitara_cheat_na_yome_ga_zoushoku_shimashita_gainen_kousa_no_structure)
