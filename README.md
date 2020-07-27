@@ -150,8 +150,11 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 #### Monday, July 27, 2020
 - 🍎- No Fried Food, **SUCCESS**
-- 🍎- No Soda, **SUCCESS**
+- 🍎- No Soda, **FAIL**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
+- 📚- Manga, [Star Martial God Technique](https://manganelo.com/manga/dtdc220351567737255) (*latest chapter*)
+- 📚- Manga, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229) (*latest chapter*)
 
 
 ### Totals
