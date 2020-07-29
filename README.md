@@ -156,8 +156,15 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 📚- Manga, [Star Martial God Technique](https://manganelo.com/manga/dtdc220351567737255) (*latest chapter*)
 - 📚- Manga, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229) (*latest chapter*)
 
+#### Tuesday, July 28, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 📚- Manga, [A Returner's Magic Should Be Special](https://manganelo.com/manga/zu917722) (*latest chapter*)
+- 📚- Manga, [Isekai Kenkokuki](https://manganelo.com/manga/dzgs263041565147242) (*latest chapter*)
+
 
 ### Totals
 
-Days Completed: **22**
-Days Left: **6**
+Days Completed: **23**
+Days Left: **5**
