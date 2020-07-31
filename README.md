@@ -170,8 +170,14 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 📚- Manga, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229) (*latest chapter*)
 - 🖊- Comic book outline for [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story
 
+#### Thursday, July 30, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
+- 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 📚- Manga, [Solo Bug Player](https://manganelo.com/manga/ob922808) (*latest chapter*)
+
 
 ### Totals
 
-Days Completed: **24**
-Days Left: **6**
+Days Completed: **25**
+Days Left: **5**
