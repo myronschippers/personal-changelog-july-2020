@@ -176,6 +176,12 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 - 📚- Manga, [Solo Bug Player](https://manganelo.com/manga/ob922808) (*latest chapter*)
 
+#### Friday, July 31, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
+- 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
+- 📚- Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (*latest chapter*)
+
 
 ### Totals
 
