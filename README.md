@@ -5,13 +5,13 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 > Note: this log is starting as of July 6th, 2020
 
-## Main Categories
+### Main Categories
 - 🍎- Eating!
 - 🖊- Writing
 - 💻- Code - Building / Learning
 - 📚- Reading
 
-## Goals
+### Goals
 - 🍎- Eating Absolutely **NO** Deep Fried Foods and Drinking **NO** Soda
 - 📚- Reading - Every Day even if it's only part of an article or Manga
 - 🖊- Work on first chapter to the Dragon Born (working title) story
