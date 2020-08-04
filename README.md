@@ -198,11 +198,18 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 ### Monday, August 3, 2020
 - 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
+- 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
+
+
+### Tuesday, August 4, 2020
+- 🍎- No Fried Food, **SUCCESS**
 - 🍎- No Soda, **SUCCESS**
 - 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
+- 📚- Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (*re-read*)
 
 
 ## Totals
 
-Days Completed: **29**
-Days Left: **1**
+Days Completed: **30**
+Days Left: **0**
