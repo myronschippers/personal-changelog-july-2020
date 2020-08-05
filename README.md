@@ -209,7 +209,18 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 📚- Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (*re-read*)
 
 
+### Wednesday, August 5, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
+- 📚- Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (*re-read*)
+
+
 ## Totals
 
 Days Completed: **30**
 Days Left: **0**
+
+## OVERAGE
+
+Days Continued: **1**
