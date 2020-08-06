@@ -211,9 +211,16 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 ### Wednesday, August 5, 2020
 - 🍎- No Fried Food, **SUCCESS**
-- 🍎- No Soda, **SUCCESS**
+- 🍎- No Soda, **FAIL**
 - 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
 - 📚- Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (*re-read*)
+
+
+### Thursday, August 6, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
+- 📚- Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (*latest-chapter*)
 
 
 ## Totals
