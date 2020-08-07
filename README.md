@@ -95,7 +95,7 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Fried Food, **SUCCESS**
 - 🍎- No Soda, **SUCCESS**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
-- 📚- Manga, [Solo Bug Player](https://manganelo.com/manga/ob922808)
+- 📚- Manga, [Bug Player](https://manganelo.com/manga/ob922808)
 - 📚- [React Router Documentation](https://reach.tech/router/)
 
 ### Sunday, July 19, 2020
@@ -174,7 +174,7 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎- No Fried Food, **SUCCESS**
 - 🍎- No Soda, **FAIL**
 - 💻- [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
-- 📚- Manga, [Solo Bug Player](https://manganelo.com/manga/ob922808) (*latest chapter*)
+- 📚- Manga, [Bug Player](https://manganelo.com/manga/ob922808) (*latest chapter*)
 
 ### Friday, July 31, 2020
 - 🍎- No Fried Food, **SUCCESS**
@@ -218,9 +218,17 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 ### Thursday, August 6, 2020
 - 🍎- No Fried Food, **SUCCESS**
-- 🍎- No Soda, **SUCCESS**
+- 🍎- No Soda, **FAIL**
 - 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
+- 💻- [Google oAuth test](https://github.com/myronschippers/oauth2-demo)
 - 📚- Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (*latest-chapter*)
+
+
+### Friday, August 7, 2020
+- 💻- [Google oAuth test](https://github.com/myronschippers/oauth2-demo)
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 📚- Manga, [Bug Player](https://manganelo.com/manga/ob922808) (*latest chapter*)
 
 
 ## Totals
