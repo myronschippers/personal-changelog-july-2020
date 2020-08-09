@@ -231,6 +231,13 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 📚- Manga, [Bug Player](https://manganelo.com/manga/ob922808) (*latest chapter*)
 
 
+### Saturday, August 8, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
+- 📚- Manga, [Bug Player](https://manganelo.com/manga/ob922808) (*latest chapter*)
+
+
 ## Totals
 
 Days Completed: **30**
