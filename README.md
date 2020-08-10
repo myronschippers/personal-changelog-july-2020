@@ -233,9 +233,16 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 ### Saturday, August 8, 2020
 - 🍎- No Fried Food, **SUCCESS**
-- 🍎- No Soda, **SUCCESS**
+- 🍎- No Soda, **FAIL**
 - 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
 - 📚- Manga, [Bug Player](https://manganelo.com/manga/ob922808) (*latest chapter*)
+
+
+### Sunday, August 9, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
+- 📚- Manga, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229) (*latest chapter*)
 
 
 ## Totals
