@@ -208,6 +208,17 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 💻- [Material-UI Demo](https://github.com/myronschippers/material-ui-full-demo)
 - 📚- Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (*re-read*)
 
+---
+## Totals
+
+Days Completed: **30**
+Days Left: **0**
+
+**END OF 30 DAY Challenge**
+
+---
+## Overage to Challenge
+
 
 ### Wednesday, August 5, 2020
 - 🍎- No Fried Food, **SUCCESS**
@@ -245,11 +256,20 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 📚- Manga, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229) (*latest chapter*)
 
 
-## Totals
+### Monday, August 10, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **FAIL**
+- **Water** issues at home....
 
-Days Completed: **30**
-Days Left: **0**
+
+### Tuesday, August 11, 2020
+- 🍎- No Fried Food, **SUCCESS**
+- 🍎- No Soda, **SUCCESS**
+- 💻- [ChitChat App](https://github.com/myronschippers/chat-app-demo.git) - socket.io and redis to make a chat messaging app with user authentication
+- 📚- [Tutorial, Chat Room](https://manifold.co/blog/building-a-chat-room-in-30-minutes-using-redis-socket-io-and-express-9e8e5a578675)
+- 📚- [Tutorial, Real-Time Chat App](https://dzone.com/articles/using-redis-with-nodejs-and-socketio)
+
 
 ## OVERAGE
 
-Days Continued: **2** days
+Days Continued: **7** days
